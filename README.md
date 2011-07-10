@@ -1,1 +1,1 @@
-Exercises created whilst completing [Learn Pyton the Hard Way](http://learnpythonthehardway.org/book/)
+Exercises created whilst completing [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
